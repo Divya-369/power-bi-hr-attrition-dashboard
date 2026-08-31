@@ -39,6 +39,12 @@ The dashboard explores:
 - Employees with less than one year of tenure have particularly high attrition.
 - Lower-income employee groups show elevated attrition levels.
 
+## Project Files
+
+- 📊 [Power BI Report](./IBM%20HR%20Dashboard.pbix)
+- 🖼️ [Dashboard Screenshot](./IBM%20HR%20Dashboard.png)
+
+
 ## Interactive Filters
 
 The dashboard can be filtered by:
