@@ -62,3 +62,5 @@ The dashboard can be filtered by:
 ## Dataset
 
 IBM HR Analytics Employee Attrition & Performance Dataset
+
+🔗 [View Dataset on Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
