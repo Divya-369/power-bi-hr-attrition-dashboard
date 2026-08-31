@@ -8,7 +8,8 @@ The dashboard helps identify employee groups with higher attrition risk and expl
 
 ## Dashboard Preview
 
-![HR Attrition Dashboard](./HR_Attrition_Dashboard.png)
+<img width="1276" height="717" alt="HR Dashboard" src="https://github.com/user-attachments/assets/818e8242-eb66-4acb-98da-fe95d4b28f01" />
+
 
 ## Key KPIs
 
