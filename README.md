@@ -32,8 +32,7 @@ The dashboard explores:
 ## Key Insights
 
 - Employees working overtime have a substantially higher attrition rate.
-- Sales has the highest departmental attrition rate.
-- Sales Representatives show the highest attrition among the analyzed job roles.
+- Sales Representatives have the highest attrition rate among the analyzed job roles.
 - Employees with less than one year of tenure have particularly high attrition.
 - Lower-income employee groups show elevated attrition levels.
 
