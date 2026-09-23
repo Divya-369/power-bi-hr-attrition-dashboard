@@ -41,6 +41,10 @@ The dashboard explores:
 - 📊 [Power BI Report](./IBM%20HR%20Dashboard.pbix)
 - 🖼️ [Dashboard Screenshot](./IBM%20HR%20Dashboard.png)
 
+## Business Requirements Document
+
+📄 [View Sample BRD](./HR_Attrition_BRD.pdf)
+
 
 ## Interactive Filters
 
